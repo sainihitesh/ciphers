@@ -1,4 +1,4 @@
-<?php include_once('vegerne.php');
+<?php include_once('../vegerne.php');
       ?><center>
 <h1>text encryption by vegerne cipher</h1>
       <br>Enter Password (Use just a-z alphabets with no special characters)<br><form action='<?php $_SERVER['PHP_SELF']; ?>' method='POST'>
